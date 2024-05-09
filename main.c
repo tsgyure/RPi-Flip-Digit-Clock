@@ -2,12 +2,14 @@
  * 																	*
  *	Raspberry Pi													*
  * 	BIG NOISY Flip Digit Clock										*
- * 	Todd S. Gyure	02/01/22										*
+ * 	Mr. Whiskers	02/01/22										*
  * 																	*
  * 	Created from salvaged Sportissimo Sports Clock					*
  * 	Model				9051-4010									*
  * 	Serial Number		2											*
  * 	Manufactured Date	04/94										*
+ *																	*
+ *	Requires wiringPi Library										*
  *																	*
  * 	Set time zone by setting the local time on the RPi				*
  * 	using sudo raspi-config at the command prompt.					*
